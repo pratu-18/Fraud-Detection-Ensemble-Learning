@@ -1,0 +1,11 @@
+
+
+
+# 2. `requirements.txt`
+
+
+
+
+pandas
+numpy
+scikit-learn
